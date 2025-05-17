@@ -59,4 +59,4 @@ pyinstaller --onefile optimizador_riego.py
 EL ejecutable se encontratará en la carpeta dist .
 
 Desarrolado por
-by Luisfarming
+Luisfarming
