@@ -1,0 +1,14 @@
+# Carpetas y archivos a ignorar por PyInstaller
+build/
+dist/
+*.spec
+
+# Archivos temporales y de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs y otros
+*.log
+*.tmp
